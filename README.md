@@ -1,4 +1,4 @@
-j# User CRUD Operation using Mongo, Express and Nodejs
+j# User CRUD Operation using Mongo, Express and Node
 Creates users using email address and password with strong password rules enforced
 
 # API Endpoints
